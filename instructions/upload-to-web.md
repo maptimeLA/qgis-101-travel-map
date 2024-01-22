@@ -24,14 +24,19 @@ Let's say you have a group of people you're collaborating with - you can also gi
 
 ## Add Your Map!
 
-1. Create a GitHub account.
-2. Provide your account name.
-3. Get added to the collaborators to this repository.
-4. Upload your QGIS files by clicking and dragging the folder to the maps folder.
+### 1. Create a GitHub account
 
-## Go to the Maps folder and go to Upload Files
+### 2. Submit your GitHub account name
 
-## Click and drag the folder with your account name to upload the entire folder
+Fill out [this Google Form](https://forms.gle/cp33PS8N1BzmTNpj9) and we'll add you as a collaborator to this repository.
 
-## Commit
+### 3. Rename the folder with your QGIS export to your GitHub account name
+
+### 4. Go to the `maps/` folder
+
+https://github.com/maptimeLA/qgis-101-travel-map/tree/main/maps
+
+### 4. Drag the folder to GitHub to upload it
+
+### 5. Click the Commit button
 

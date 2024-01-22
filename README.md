@@ -58,7 +58,6 @@ Fill out [this Google Form](https://forms.gle/cp33PS8N1BzmTNpj9) and we'll add y
 
 **5. Click the Commit button**
 
-
-
 ## Maps!
 
+* [theworksla's map](https://maptimela.github.io/qgis-101-travel-map/maps/omars_map/index.html)

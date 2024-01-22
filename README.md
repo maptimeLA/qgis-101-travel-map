@@ -10,3 +10,8 @@ Happy New Year!  The theme for our first MaptimeLA meeting of 2024 is TRAVEL!  W
 
 Thank you to our sponsor for this month's event: <br>
 [CGIA | California Geographic Information Association](https://cgia.org/)
+
+## Workshop Instructions
+
+## Maps!
+

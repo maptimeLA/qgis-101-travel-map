@@ -38,5 +38,5 @@ https://github.com/maptimeLA/qgis-101-travel-map/tree/main/maps
 
 ### 4. Drag the folder to GitHub to upload it
 
-### 5. Click the Commit button
+### 5. Click the Commit button to save it
 

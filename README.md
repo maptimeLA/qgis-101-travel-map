@@ -42,17 +42,17 @@ Let's say you have a group of people you're collaborating with - you can also gi
 
 **1. Create a GitHub account**
 
-[Signup for GitHub](https://github.com/signup)
+* [Signup for GitHub](https://github.com/signup)
 
 **2. Submit your GitHub account name**
 
-Fill out [this Google Form](https://forms.gle/cp33PS8N1BzmTNpj9) and we'll add you as a collaborator to this repository.
+* Send us your account name in [this Google Form](https://forms.gle/cp33PS8N1BzmTNpj9) and we'll add you as a collaborator so you can upload directly to this repo.
 
 **3. Rename the folder with your QGIS export to your GitHub account name**
 
 **4. Go to the `maps` folder**
 
-[This is the maps folder](https://github.com/maptimeLA/qgis-101-travel-map/tree/main/maps)
+* [This is the maps folder](https://github.com/maptimeLA/qgis-101-travel-map/tree/main/maps)
 
 **4. Drag the folder to GitHub to upload it**
 

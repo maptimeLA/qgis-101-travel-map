@@ -38,7 +38,7 @@
         },
         2
       );
-      var mb = L.tileLayer.mbTiles("travelMap.mbtiles").addTo(map);
+      var mb = L.tileLayer.mbTiles("travelMap.mbtiles", {noWrap: true}).addTo(map);
 
       // show the scale bar on the lower left corner
       L.control.scale({ imperial: true, metric: true }).addTo(map);

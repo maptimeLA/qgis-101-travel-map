@@ -1,15 +1,19 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
     <script src="https://unpkg.com/sql.js@0.3.2/js/sql.js"></script>
     <script src="https://unpkg.com/Leaflet.TileLayer.MBTiles@1.0.0/Leaflet.TileLayer.MBTiles.js"></script>
 
     <style>
-      html, body {
+      html,
+      body {
         height: 100%;
         padding: 0;
         margin: 0;
@@ -24,14 +28,20 @@
   <body>
     <div id="map"></div>
     <script>
-      //Initialized the leaflet map
-      var map = L.map('map').setView({lon: 0, lat: 0}, 2);
-
-      //Adds your mbtiles to the map
-      var mb = L.tileLayer.mbTiles('travel_3.mbtiles').addTo(map);
+      var map = L.map("map", {
+        minZoom: 1,
+        maxZoom: 4,
+      }).setView(
+        {
+          lon: 0,
+          lat: 0,
+        },
+        2
+      );
+      var mb = L.tileLayer.mbTiles("travelMap.mbtiles").addTo(map);
 
       // show the scale bar on the lower left corner
-      L.control.scale({imperial: true, metric: true}).addTo(map);
+      L.control.scale({ imperial: true, metric: true }).addTo(map);
     </script>
   </body>
 </html>

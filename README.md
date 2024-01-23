@@ -13,12 +13,9 @@ Thank you to our sponsor for this month's event: <br>
 
 # Workshop
 
-Access this page: <br>
-<img src="https://github.com/maptimeLA/qgis-101-travel-map/assets/1873072/b01d6cd5-66d7-4f9b-b930-3740f4f89cfd" width=600 >
-
 ## QGIS
 
-...
+[Slides](https://slides.com/omarureta/qgis-101-5-24-23)
 
 ## Intro to GitHub
 

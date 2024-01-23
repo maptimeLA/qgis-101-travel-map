@@ -58,3 +58,8 @@ Let's say you have a group of people you're collaborating with - you can also gi
 ## Maps!
 
 * [theworksla's map](https://maptimela.github.io/qgis-101-travel-map/maps/omars_map/index.html)
+* [winstonhoyle's map](https://maptimela.github.io/qgis-101-travel-map/maps/winstonhoyle/)
+* [mcxcova's map](https://maptimela.github.io/qgis-101-travel-map/maps/mcxcova_travel_map/)
+* [mythicalprogrammer's map](https://maptimela.github.io/qgis-101-travel-map/maps/mythicalprogrammer/)
+* [vanechita's map](https://maptimela.github.io/qgis-101-travel-map/maps/vanechita/)
+* [placeholder](https://maptimela.github.io/qgis-101-travel-map/maps/)
